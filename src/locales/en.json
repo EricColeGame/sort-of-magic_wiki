@@ -6,7 +6,16 @@
     "description": "Explore Sort of Magic Wiki with guides, spell tips, room walkthroughs, co-op strategies, and sorting advice for this cozy magical organization adventure game.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "levels": "Levels",
+    "mechanics": "Mechanics",
+    "tips": "Tips",
+    "controls": "Controls",
+    "updates": "Updates",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "Sort of Magic Wiki - Guide, Spells & Co-op Tips",
@@ -447,7 +456,30 @@
       "secondary": "Play on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "Sort of Magic Guides",
+    "overviewDescription": "Beginner guides, walkthroughs, and step-by-step tutorials for Sort of Magic."
+  },
+  "levels": {
+    "overviewTitle": "Sort of Magic Levels",
+    "overviewDescription": "Level lists, level solutions, and hard level tips for every Sort of Magic stage."
+  },
+  "mechanics": {
+    "overviewTitle": "Sort of Magic Mechanics",
+    "overviewDescription": "How Sort of Magic works: puzzle mechanics, gameplay loops, and the daily challenge."
+  },
+  "tips": {
+    "overviewTitle": "Sort of Magic Tips",
+    "overviewDescription": "Strategies, hints, and secrets to solve Sort of Magic puzzles faster."
+  },
+  "controls": {
+    "overviewTitle": "Sort of Magic Controls",
+    "overviewDescription": "Controls, moves, and settings for playing Sort of Magic on mobile and desktop."
+  },
+  "updates": {
+    "overviewTitle": "Sort of Magic Updates",
+    "overviewDescription": "Latest Sort of Magic updates, new levels, release date news, and community highlights."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",

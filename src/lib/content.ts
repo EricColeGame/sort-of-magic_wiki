@@ -237,39 +237,61 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  guide: "Guides",
+  levels: "Levels",
+  mechanics: "Mechanics",
+  tips: "Tips & Strategies",
+  controls: "Controls",
+  updates: "Updates",
 };
 
 // 日文分组标题映射
 const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  guide: "ガイド",
+  levels: "レベル",
+  mechanics: "ゲームシステム",
+  tips: "ヒント",
+  controls: "操作",
+  updates: "アップデート",
+};
+
+// 简体中文分组标题映射
+const GROUP_TITLES_ZH: Record<string, string> = {
+  guide: "指南",
+  levels: "关卡",
+  mechanics: "机制",
+  tips: "技巧",
+  controls: "操作",
+  updates: "更新",
+};
+
+// 韩文分组标题映射
+const GROUP_TITLES_KO: Record<string, string> = {
+  guide: "가이드",
+  levels: "레벨",
+  mechanics: "게임 시스템",
+  tips: "팁",
+  controls: "조작",
+  updates: "업데이트",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  "zh-CN": GROUP_TITLES_ZH,
+  ko: GROUP_TITLES_KO,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  "zh-CN": "概览",
+  ko: "개요",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "levels", "mechanics", "tips", "controls", "updates",
 ];
 
 /**

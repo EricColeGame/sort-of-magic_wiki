@@ -1,0 +1,125 @@
+export const metadata = {
+  title: "Sort of Magic Water Sort: Mechanics, Strategy, and Why It Feels Magical",
+  description: "Learn how the sort of magic water sort mechanic works, plus proven strategies, difficulty scaling, and fixes for common pouring mistakes.",
+  category: "mechanics",
+  date: "2026-10-05",
+}
+
+There is a moment in every puzzle game when the board stops looking like a jumble of pieces and starts looking like a solution. In a **sort of magic water sort** puzzle, that moment arrives when a stream of colored liquid lands on a matching layer and two messy stacks become one clean block. It sounds trivial, yet the **sort of magic water sort** mechanic is one of the most quietly addictive systems in casual gaming — and understanding how it actually works turns lucky tapping into deliberate, repeatable play.
+
+That distinction matters because water sorting looks random to newcomers and feels inevitable to experienced players. The difference is not reflexes or speed. It is a small set of rules, a handful of habits, and the patience to read a board before you touch it.
+
+## What the Sort of Magic Water Sort Mechanic Actually Is
+
+At its core, a sort of magic water sort board is a fixed number of vertical tubes, each holding a stack of colored liquid segments. Every tube has a capacity, every segment has a color, and only the topmost segment of any tube can be moved. Your job is to rearrange those segments until each tube holds a single color, or is completely empty.
+
+The twist — the part that earns the word "magic" — is the pour rule. You can only pour onto a tube whose top segment matches the color you are moving, or onto an empty tube. When the segments you are moving are all the same color and stacked together, the whole block travels at once. That single rule is what makes a chaotic board suddenly snap into order after one well-chosen move.
+
+| Board component | What it does | Why it matters |
+|---|---|---|
+| Filled tubes | Hold the shuffled color segments | Your working space and your puzzle |
+| Empty tubes | Accept any color | The most valuable resource on the board |
+| Color blocks | Identical segments touching each other | Move as one unit, saving moves |
+| Capacity limit | Caps segments per tube | Prevents dumping everything in one place |
+| Top segment | The only movable piece per tube | Defines every legal move you have |
+
+## Reading the Rules Move by Move
+
+Most players learn water sorting by tapping and watching. That works for the first dozen boards, then stops working. The players who breeze through hard layouts are the ones who can name what a move does before they make it.
+
+| Move type | What happens | When to use it |
+|---|---|---|
+| Match pour | Color lands on the same color | Whenever it consolidates a block |
+| Empty pour | Any color lands in an empty tube | To free a buried color underneath |
+| Block pour | Several same-color segments move together | To clear a tube in a single action |
+| Blocked pour | Nothing moves — the top colors differ | A signal to re-read the board |
+| Split pour | One color ends up in three or more tubes | Almost never — it scatters progress |
+
+A legal move is not automatically a good move. The board does not punish you for tapping, but it does punish you for spending your empty tubes too early. Every empty tube you fill is a lane you no longer have.
+
+## Why the Sort of Magic Water Sort Loop Feels So Satisfying
+
+The reason the sort of magic water sort format hooks people is not complicated. It combines three things puzzle designers have leaned on for decades: low friction, visible progress, and complete determinism.
+
+There is no timer, no random failure, and no hidden information. Every board is solvable from the first frame, which means a loss is always a decision rather than bad luck. That is rare in casual games and it is exactly why the format travels so well across age groups and devices.
+
+Psychologically, the loop leans on closure. Pouring a matched color into place produces an immediate, visual reward — a tidy stack where a messy one used to be. Chaining several of those rewards in a row produces the flow state that players describe as the board "sorting itself." For a full background on how these reward loops are constructed, the [design principles behind classic logic puzzles](https://en.wikipedia.org/wiki/Logic_puzzle) are worth reading.
+
+Community reports consistently describe the same pattern: the first twenty levels feel effortless, then progress stalls hard around the point where color count outpaces empty tubes. That stall is not a difficulty spike in the traditional sense. It is the moment the game stops being about matching and starts being about planning.
+
+## Sort of Magic Water Sort Strategies That Actually Work
+
+Good play in a sort of magic water sort board comes down to sequencing, not speed. These techniques cover the vast majority of layouts you will meet.
+
+**Work backward from the solved state.** Before your first pour, pick a tube and ask what its final color should be. Then trace which colors must leave it, and in what order. Two or three backward steps usually reveal the correct opening move.
+
+**Guard your empty tubes.** Treat an empty tube as a move you have not spent yet. If a pour does not consolidate a color or expose a buried one, it is probably wasting a lane you will need later.
+
+**Expose before you consolidate.** It is tempting to finish a color early. But a buried color at the bottom of a tall tube blocks everything above it. Freeing that bottom segment often unlocks two or three future moves.
+
+**Count your colors first.** Knowing how many tubes each color occupies tells you immediately whether a layout is comfortable or tight. Four segments of one color spread across three tubes is a warning sign.
+
+| Technique | How it works | Best used when |
+|---|---|---|
+| Backward planning | Solve the end state first, then reverse the moves | Boards with three or fewer empty tubes |
+| Empty-tube budgeting | Decide how many empties you can afford to fill | Mid-game, once colors start stacking |
+| Buried-color triage | Free the deepest segment before finishing anything | Tall tubes with mixed bottoms |
+| Color census | Count tubes per color before moving | Every new board, in the first ten seconds |
+| Chain clearing | Line up two block pours back to back | Late game, when the board is nearly solved |
+
+## How Difficulty Scales
+
+Difficulty in water sorting is almost entirely a function of three numbers: how many tubes exist, how many colors are in play, and how many of those tubes start empty. Change any one of them and the puzzle's character changes.
+
+| Tube count | Colors in play | Empty tubes | Typical feel |
+|---|---|---|---|
+| 8–10 | 5–7 | 2 | Tutorial pace, forgiving |
+| 11–13 | 8–10 | 2 | Comfortable, some planning needed |
+| 13–15 | 10–12 | 1–2 | Tight, mistakes compound |
+| 15+ | 12+ | 1 | Punishing, near-perfect sequencing required |
+
+The pattern is consistent across implementations: adding colors increases complexity faster than adding tubes increases room to maneuver. A board with one extra color but the same number of empties is meaningfully harder than the one before it, even though the layout looks nearly identical.
+
+## Mistakes That Stall Progress
+
+Most stuck boards are not unsolvable. They are the result of one or two decisions made ten moves earlier.
+
+| Mistake | Why it hurts | The fix |
+|---|---|---|
+| Filling every empty tube early | Removes all maneuvering room | Keep at least one lane open |
+| Splitting one color across three tubes | Scatters progress that must be re-gathered | Consolidate before you spread |
+| Finishing a color too soon | Locks a tube you still needed as workspace | Delay completion until late |
+| Pouring without reading the top segments | Creates blocked pours and wasted moves | Scan every tube top first |
+| Ignoring the bottom layer | Buried colors block entire columns | Plan the deepest segment first |
+
+If you do get stuck, the honest answer is usually that the board is still solvable and you have simply boxed yourself in. Undo, restart, or reverse your last three pours and re-read the layout with the empty-tube rule in mind. Restarting is cheap; stubborn tapping is not.
+
+## Tracking Whether You Are Actually Improving
+
+Because water sorting has no timer, it is easy to feel like you are improving without evidence. A few simple metrics tell a clearer story.
+
+| Metric | What it measures | What improvement looks like |
+|---|---|---|
+| Restarts per board | Planning quality | Fewer restarts over time |
+| Empty tubes at 50% solved | Resource discipline | At least one lane still open |
+| Undo count | Move accuracy | A downward trend on similar boards |
+| Moves to finish | Sequencing efficiency | Fewer moves for the same layout |
+| Time to first pour | Board reading | Slower at first, then faster overall |
+
+The last row surprises people. Experienced players often pause longer before their opening move than beginners do — because they are reading the board instead of reacting to it.
+
+## FAQ
+
+**Is every sort of magic water sort board guaranteed to be solvable?**
+In well-designed implementations, yes. The layouts are generated so a solution exists from the starting position. If you cannot find it, the problem is usually sequencing rather than the board itself. Restarting and approaching it with backward planning almost always reveals a path.
+
+**What is the single most important habit to build?**
+Protecting your empty tubes. Nearly every stalled board comes down to having filled the last open lane too early. Treat an empty tube as a resource you spend, not a space you fill.
+
+**Does speed matter at all?**
+Not for solving. Water sorting is a planning puzzle, so accuracy beats pace every time. Speed becomes a reasonable goal only after your restart rate on similar layouts has dropped.
+
+**Why does the mechanic feel like it "does the work for you"?**
+Because block pours move several segments at once, a single good move can visibly reorganize half the board. That dramatic, instant payoff is the sort of magic water sort effect players keep coming back for — the board looks like it solved itself, even though you set it up.
+
+Water sorting rewards the same thing every good puzzle rewards: reading before acting, and knowing which resource you cannot afford to waste. Once you can see a board as colors, capacities, and empty lanes rather than a wall of tubes, the magic stops being mysterious — and starts being repeatable.
