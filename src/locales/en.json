@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the core sorting loop, how pouring works, and the habits that carry you through your first levels."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "How to Play",
+          "description": "Understand the tube rules, color stacking, and the planning routine behind every clean clear."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Level Solutions",
+          "description": "Work through stubborn stages with a repeatable method for reading the board and avoiding dead ends."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Sort of Magic."
+          "title": "Daily Challenge",
+          "description": "Turn a few spare minutes into steady progress with streak rewards and daily board tips."
         }
       ]
     },
@@ -62,237 +62,353 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "Daily Challenge",
+        "Level Solutions",
+        "Water Sort Rules"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need to clear your first Sort of Magic boards with confidence.",
+          "href": "/guide/sort-of-magic-beginner-guide"
         },
         {
-          "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "badge": "Core",
+          "title": "How to Play",
+          "description": "The tube rules, pour logic, and planning habits behind a clean clear.",
+          "href": "/guide/sort-of-magic-how-to-play"
         },
         {
-          "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "badge": "Levels",
+          "title": "Level Solutions",
+          "description": "A repeatable method for reading stubborn stages and escaping dead ends.",
+          "href": "/levels/sort-of-magic-level-solutions"
         },
         {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "badge": "Daily",
+          "title": "Daily Challenge",
+          "description": "Reset timers, streak bonuses, and the habits that keep you clearing every day.",
+          "href": "/mechanics/sort-of-magic-daily-challenge"
         },
         {
-          "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "badge": "Mechanics",
+          "title": "Water Sort Rules",
+          "description": "How matching stacks, block pours, and empty tubes actually work.",
+          "href": "/mechanics/sort-of-magic-water-sort"
         },
         {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "badge": "Tips",
+          "title": "Strategy Tips",
+          "description": "Board-reading habits and booster discipline that carry you past the mid-game.",
+          "href": "/tips/sort-of-magic-strategies"
         },
         {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "badge": "Hard",
+          "title": "Hard Levels",
+          "description": "How to beat the toughest stages without burning through boosters.",
+          "href": "/levels/sort-of-magic-hard-levels"
         },
         {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "badge": "Updates",
+          "title": "Latest Update",
+          "description": "What recent Sort of Magic patches changed and how to adapt.",
+          "href": "/updates/sort-of-magic-update"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Sort of Magic?",
       "paragraphs": [
-        "Sort of Magic is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Sort of Magic is a cozy magic-themed sorting puzzle game where every stage is built from tubes of colored liquid. You move the top segment of one tube onto a matching color or an empty tube until each stack holds a single color, turning a messy board into a clean, ordered shelf.",
+        "The campaign spreads that core rule across escalating level tiers, while the daily challenge adds fresh boards, streak bonuses, and reward tiers on a fixed schedule. Sort of Magic supports solo play and online co-op for up to four players, so you can plan a board alone or work through it with friends."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "Riwon"
         },
         {
           "label": "Platform",
-          "value": "Roblox"
+          "value": "Steam (PC)"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Cozy Sorting Puzzle"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Objects",
+          "value": "4500+"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Rooms",
+          "value": "6"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Players",
+          "value": "1-4"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Levels",
+          "value": "100+"
+        },
+        {
+          "label": "Daily Reset",
+          "value": "Fixed Schedule"
         }
       ],
-      "cta": "Explore All Guides"
+      "cta": "Read the Beginner Guide"
     },
     "explore": {
       "title": "Explore Sort of Magic Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Every Sort of Magic guide in one place: beginner walkthroughs, level solutions, item references, spell tiers, co-op tips, and the latest updates.",
       "modules": [
         {
           "order": 1,
-          "name": "Sort of Magic Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/sort-of-magic-codes",
-          "displayType": "code-box",
+          "name": "Sort of Magic Beginner Guide",
+          "description": "A beginner-friendly walkthrough of the core sorting loop, how pouring works, and the habits that help new players clear their first levels.",
+          "href": "/guide/sort-of-magic-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Scan the whole board first and note which colors are already stacked together."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Start with the tubes that hold the fewest colors, because they finish the fastest."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Pour only onto a matching top color or an empty tube; every other move is rejected."
+            },
+            {
+              "label": "4",
+              "detail": "Keep one tube empty for as long as you can, since it is your working space."
+            },
+            {
+              "label": "5",
+              "detail": "Undo a pour the moment it buries a color you still need further down."
+            },
+            {
+              "label": "6",
+              "detail": "Finish each tube one color at a time and use the daily challenge to practice harder boards."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/sort-of-magic-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Sort of Magic Gameplay Guide",
+          "description": "A closer look at how the puzzle plays: reading a board, planning pours, managing boosters, and turning the daily challenge into steady progress.",
+          "href": "/mechanics/sort-of-magic-gameplay",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Tubes",
+              "detail": "Each tube holds a stack of colored segments, and only the top segment can move."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Pouring",
+              "detail": "A run of matching colors travels together when it lands on the same color."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Planning",
+              "detail": "Read the whole board first, because the right move in the wrong order usually fails."
+            },
+            {
+              "label": "Boosters",
+              "detail": "Save limited boosters for boards that truly stall rather than early mistakes."
+            },
+            {
+              "label": "Daily",
+              "detail": "The daily challenge resets on a fixed schedule and scales to your progress."
+            },
+            {
+              "label": "Streaks",
+              "detail": "Clearing the daily challenge every day builds streak bonuses over weeks."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/sort-of-magic-tier-list",
-          "displayType": "tier-grid",
+          "name": "Sort of Magic Items Guide",
+          "description": "A reference for the objects you sort across the magic school, from spell books and potions to brooms and glowing ingredients.",
+          "href": "/mechanics/sort-of-magic-sorting-puzzle",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Grimoire",
+              "detail": "Spell books that sort onto the matching shelf in the library wing."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Potion",
+              "detail": "Color-coded bottles that follow the same stacking rules as the puzzle tubes."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Broom",
+              "detail": "Cleaning tools that belong in the storage room once their shelf is clear."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Crystal",
+              "detail": "Glowing ingredients grouped by hue before they can be shelved."
+            },
+            {
+              "label": "Cauldron",
+              "detail": "Heavy equipment that only fits in the prepared workshop slot."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/sort-of-magic-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Sort of Magic Spells Guide",
+          "description": "A ranked guide to the spells and tools that support sorting, from board-revealing charms to extra tubes that open up a tight stage.",
+          "href": "/tips/sort-of-magic-strategies",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "S",
+              "detail": "Reveal spells that show the next valid pour on a stalled board."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "A",
+              "detail": "Color-sort charms that gather scattered segments into one stack."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "B",
+              "detail": "Extra tube spells that add working space when the board is tight."
+            },
+            {
+              "label": "C",
+              "detail": "Hint spells best saved for daily challenge attempts."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/sort-of-magic-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Sort of Magic Multiplayer Guide",
+          "description": "Co-op tips for splitting a board, coordinating pours, and clearing levels together with up to four players.",
+          "href": "/guide/sort-of-magic-how-to-play",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "1",
+              "detail": "Set up a shared session so each player works a different section of the board."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "2",
+              "detail": "Call out the color you need before you pour, so teammates leave a matching top."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "3",
+              "detail": "Reserve one empty tube for the player handling the hardest stack."
+            },
+            {
+              "label": "4",
+              "detail": "Pause before using a booster so nobody wastes it on a board a teammate can clear."
+            },
+            {
+              "label": "5",
+              "detail": "Review the cleared board together and plan the next level before restarting."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/sort-of-magic-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Sort of Magic Room Guide",
+          "description": "A room-by-room look at the areas of the magic school and the sorting challenges waiting in each one.",
+          "href": "/levels/sort-of-magic-levels",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Library",
+              "detail": "Book-heavy boards where stacking by spine color clears the fastest."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Potion Lab",
+              "detail": "Mixed-color bottles that demand careful ordering before you pour."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Greenhouse",
+              "detail": "Plant and seed tubes that refill between stages of a level."
+            },
+            {
+              "label": "Storage",
+              "detail": "Cluttered shelves with the tightest tube capacity in the school."
+            },
+            {
+              "label": "Tower",
+              "detail": "Late-game rooms that combine every mechanic introduced earlier."
+            },
+            {
+              "label": "Vault",
+              "detail": "Reward rooms that open after a full daily challenge streak."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Sort of Magic Achievements Guide",
+          "description": "A completion guide for the milestones and challenges that reward players who clear every stage and daily streak.",
+          "href": "/tips/sort-of-magic-secrets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "First Win",
+              "detail": "Finish the opening level without using an undo."
+            },
+            {
+              "label": "Streak 7",
+              "detail": "Clear the daily challenge seven days in a row."
+            },
+            {
+              "label": "Perfect",
+              "detail": "Complete a stage without a single wasted pour."
+            },
+            {
+              "label": "No Booster",
+              "detail": "Clear a hard level with boosters left untouched."
+            },
+            {
+              "label": "Collector",
+              "detail": "Sort every item category in the school at least once."
+            },
+            {
+              "label": "Speedrun",
+              "detail": "Finish a full room under the target move count."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Sort of Magic News and Updates",
+          "description": "A running collection of release news, new levels, patches, and platform updates for Sort of Magic.",
+          "href": "/updates/sort-of-magic-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "New Levels",
+              "detail": "Recent updates add fresh stages that build on the latest mechanics."
+            },
+            {
+              "label": "Patches",
+              "detail": "Bug-fix releases keep pouring, undo, and daily resets running smoothly."
+            },
+            {
+              "label": "Events",
+              "detail": "Seasonal events add limited-time boards and cosmetic rewards."
+            },
+            {
+              "label": "Mobile",
+              "detail": "Android and iOS versions track the PC update schedule."
+            },
+            {
+              "label": "Release",
+              "detail": "Launch and platform news collected as official announcements arrive."
+            },
+            {
+              "label": "Reviews",
+              "detail": "Player impressions of new content and difficulty changes."
             }
           ]
         }
@@ -304,23 +420,23 @@
       "items": [
         {
           "question": "What is Sort of Magic?",
-          "answer": "Sort of Magic is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Sort of Magic is a cozy magic-themed sorting puzzle game. Each level gives you a set of tubes filled with colored segments, and you pour the top color onto a matching stack or an empty tube until every tube holds a single color."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do you play Sort of Magic?",
+          "answer": "Read the whole board first, keep one tube empty as working space, and only pour a color onto a matching top or an empty tube. Sort of Magic rewards planning over speed."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Does Sort of Magic have a daily challenge?",
+          "answer": "Yes. The Sort of Magic daily challenge refreshes on a fixed schedule, scales to your progress, and rewards streak bonuses for clearing it day after day."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How many levels does Sort of Magic have?",
+          "answer": "Sort of Magic is built around level tiers that climb toward a level 100 milestone, with each tier introducing a new twist on the sorting rules."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Can you play Sort of Magic in co-op?",
+          "answer": "Sort of Magic supports solo play and online co-op for up to four players, so you can split a board with friends or clear it on your own."
         }
       ]
     },
