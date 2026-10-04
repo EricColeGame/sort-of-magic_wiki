@@ -25,11 +25,11 @@ export const siteConfig: SiteConfig = {
   tagline: "Cozy Magic School Sorting Guides, Spells & Co-op Tips",
   description: "Explore Sort of Magic Wiki with guides, spell tips, room walkthroughs, co-op strategies, and sorting advice for this cozy magical organization adventure game.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://sort-of-magic.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://sort-of-magic.wiki").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@sort-of-magic.wiki",
   gameUrl: "https://store.steampowered.com/app/4398290/Sort_of_Magic/",
   heroVideoId: "tcarG5RGIXU", // Sort of Magic - Announcement Trailer (Riwon)
   social: {
-    youtube: "https://www.youtube.com/@Riwon",
+    youtube: "https://www.youtube.com/@RiwonGames",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
