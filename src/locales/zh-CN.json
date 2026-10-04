@@ -1,1 +1,519 @@
-{}
+{
+  "site": {
+    "name": "Sort of Magic Wiki",
+    "shortName": "Sort of Magic",
+    "tagline": "温馨魔法学校整理指南、咒语与联机技巧",
+    "description": "欢迎来到 Sort of Magic Wiki，这里为这款温馨的魔法组织冒险游戏提供指南、咒语技巧、房间攻略、联机策略和整理建议。",
+    "legalNotice": "非官方粉丝维基。由玩家打造，为玩家服务。"
+  },
+  "nav": {
+    "guide": "指南",
+    "levels": "关卡",
+    "mechanics": "机制",
+    "tips": "技巧",
+    "controls": "操作",
+    "updates": "更新",
+    "menu": "菜单",
+    "toggleTheme": "切换主题"
+  },
+  "home": {
+    "meta": {
+      "title": "Sort of Magic Wiki - 指南、咒语与联机技巧",
+      "description": "欢迎来到 Sort of Magic Wiki，这里为这款温馨的魔法组织冒险游戏提供指南、咒语技巧、房间攻略、联机策略和整理建议。"
+    },
+    "hero": {
+      "eyebrow": "温馨魔法组织冒险",
+      "title": "Sort of Magic Wiki",
+      "description": "Sort of Magic 是一款温馨的奇幻整理游戏，玩家操控一只魔法猫，整理杂乱的魔法学校，为数千件物品分类，解锁咒语，并可单人游玩或与好友在线联机。",
+      "stats": [
+        "4500+ 件物品",
+        "6 个房间",
+        "1-4 名玩家",
+        "每周更新"
+      ],
+      "primaryCta": "在 Steam 上畅玩",
+      "secondaryCta": "新手指南",
+      "tertiaryCta": "联机指南",
+      "videoLabel": "官方预告片"
+    },
+    "updates": {
+      "title": "最新更新",
+      "browse": "浏览所有指南",
+      "viewAll": "查看全部"
+    },
+    "start": {
+      "eyebrow": "从这里开始",
+      "title": "你的 Sort of Magic 之旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "新手指南",
+          "description": "了解核心整理循环、倒液机制，以及带你通过最初几关的习惯。"
+        },
+        {
+          "number": "2",
+          "title": "玩法说明",
+          "description": "理解试管规则、颜色堆叠，以及每次干净通关背后的规划流程。"
+        },
+        {
+          "number": "3",
+          "title": "关卡解法",
+          "description": "用可重复的方法读懂棋盘、避开死局，攻克顽固关卡。"
+        },
+        {
+          "number": "4",
+          "title": "每日挑战",
+          "description": "把零碎几分钟变成稳定进度，掌握连胜奖励与每日棋盘技巧。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "热门页面",
+      "title": "当下热门",
+      "quickLinks": [
+        "新手指南",
+        "每日挑战",
+        "关卡解法",
+        "倒水分类规则"
+      ],
+      "cards": [
+        {
+          "badge": "新手",
+          "title": "新手指南",
+          "description": "自信通关你的第一批 Sort of Magic 棋盘所需的一切。",
+          "href": "/guide/sort-of-magic-beginner-guide"
+        },
+        {
+          "badge": "核心",
+          "title": "玩法说明",
+          "description": "干净通关背后的试管规则、倒液逻辑与规划习惯。",
+          "href": "/guide/sort-of-magic-how-to-play"
+        },
+        {
+          "badge": "关卡",
+          "title": "关卡解法",
+          "description": "读懂顽固关卡并脱离死局的可重复方法。",
+          "href": "/levels/sort-of-magic-level-solutions"
+        },
+        {
+          "badge": "每日",
+          "title": "每日挑战",
+          "description": "重置计时、连胜奖励，以及让你每天坚持通关的习惯。",
+          "href": "/mechanics/sort-of-magic-daily-challenge"
+        },
+        {
+          "badge": "机制",
+          "title": "倒水分类规则",
+          "description": "同色堆叠、整块倒液与空试管究竟如何运作。",
+          "href": "/mechanics/sort-of-magic-water-sort"
+        },
+        {
+          "badge": "技巧",
+          "title": "策略技巧",
+          "description": "带你越过中期的读盘习惯与道具节制。",
+          "href": "/tips/sort-of-magic-strategies"
+        },
+        {
+          "badge": "高难",
+          "title": "高难关卡",
+          "description": "如何不耗尽道具也能击败最难的关卡。",
+          "href": "/levels/sort-of-magic-hard-levels"
+        },
+        {
+          "badge": "更新",
+          "title": "最新更新",
+          "description": "最近的 Sort of Magic 补丁改了什么，以及如何适应。",
+          "href": "/updates/sort-of-magic-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "什么是 Sort of Magic？",
+      "paragraphs": [
+        "Sort of Magic 是一款温馨的魔法主题分类解谜游戏，每个关卡都由装有彩色液体的试管组成。你把一支试管顶部的色段移到同色或空试管上，直到每一叠都是单一颜色，把杂乱的棋盘变成整齐有序的架子。",
+        "战役把这一核心规则延伸到层层递进的关卡阶段，而每日挑战则按固定时间表带来全新棋盘、连胜奖励和奖励层级。Sort of Magic 支持单人游玩和最多四人在线联机，你可以独自规划棋盘，也可以与好友一起推进。"
+      ],
+      "stats": [
+        {
+          "label": "开发商",
+          "value": "Riwon"
+        },
+        {
+          "label": "平台",
+          "value": "Steam (PC)"
+        },
+        {
+          "label": "类型",
+          "value": "温馨分类解谜"
+        },
+        {
+          "label": "物品",
+          "value": "4500+"
+        },
+        {
+          "label": "房间",
+          "value": "6"
+        },
+        {
+          "label": "玩家",
+          "value": "1-4"
+        },
+        {
+          "label": "关卡",
+          "value": "100+"
+        },
+        {
+          "label": "每日重置",
+          "value": "固定时间表"
+        }
+      ],
+      "cta": "阅读新手指南"
+    },
+    "explore": {
+      "title": "探索 Sort of Magic Wiki",
+      "description": "所有 Sort of Magic 指南汇聚一处：新手攻略、关卡解法、物品参考、咒语梯度、联机技巧与最新更新。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Sort of Magic 新手指南",
+          "description": "面向新手的核心整理循环攻略，讲解倒液机制，以及帮助新玩家通关最初几关的习惯。",
+          "href": "/guide/sort-of-magic-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "先浏览整个棋盘，记下哪些颜色已经堆在一起。"
+            },
+            {
+              "label": "2",
+              "detail": "从颜色种类最少的试管入手，因为它们最快完成。"
+            },
+            {
+              "label": "3",
+              "detail": "只能倒到同色的顶部或空试管上，其他操作都会被拒绝。"
+            },
+            {
+              "label": "4",
+              "detail": "尽量长时间保留一支空试管，因为它是你的操作空间。"
+            },
+            {
+              "label": "5",
+              "detail": "一旦某次倒液把后面还要用的颜色埋住，立刻撤销。"
+            },
+            {
+              "label": "6",
+              "detail": "每次完成一支试管的单一颜色，并用每日挑战练习更难的棋盘。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Sort of Magic 玩法指南",
+          "description": "深入了解解谜玩法：读盘、规划倒液、管理道具，并把每日挑战变成稳定进度。",
+          "href": "/mechanics/sort-of-magic-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "试管",
+              "detail": "每支试管装有一叠彩色色段，只有最顶部的色段可以移动。"
+            },
+            {
+              "label": "倒液",
+              "detail": "一段连续的同色液体会一起移动，落到相同颜色上。"
+            },
+            {
+              "label": "规划",
+              "detail": "先读懂整个棋盘，因为正确的操作顺序错误通常也会失败。"
+            },
+            {
+              "label": "道具",
+              "detail": "把有限的道具留给真正卡住的棋盘，而不是早期的失误。"
+            },
+            {
+              "label": "每日",
+              "detail": "每日挑战按固定时间表重置，并随你的进度扩展。"
+            },
+            {
+              "label": "连胜",
+              "detail": "每天通关每日挑战，几周后就能累积连胜奖励。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Sort of Magic 物品指南",
+          "description": "梳理魔法学校中你分类的物品：从咒语书、药水到扫帚和发光材料。",
+          "href": "/mechanics/sort-of-magic-sorting-puzzle",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "魔法书",
+              "detail": "在图书馆区域分类到对应书架的咒语书。"
+            },
+            {
+              "label": "药水",
+              "detail": "遵循与解谜试管相同堆叠规则的彩色瓶子。"
+            },
+            {
+              "label": "扫帚",
+              "detail": "清理工具，清空货架后应归位到储藏室。"
+            },
+            {
+              "label": "水晶",
+              "detail": "按色调归组的发光材料，之后才能上架。"
+            },
+            {
+              "label": "坩埚",
+              "detail": "只能放进预备工作台槽位的沉重设备。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Sort of Magic 咒语指南",
+          "description": "一份带梯度的指南，介绍辅助整理的咒语与工具，从揭示棋盘的咒语到打开紧凑关卡的额外试管。",
+          "href": "/tips/sort-of-magic-strategies",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "在卡住的棋盘上显示下一步有效倒液的揭示咒语。"
+            },
+            {
+              "label": "A",
+              "detail": "把散落色段聚成一叠的颜色整理咒语。"
+            },
+            {
+              "label": "B",
+              "detail": "在棋盘紧凑时增加操作空间的额外试管咒语。"
+            },
+            {
+              "label": "C",
+              "detail": "最好留给每日挑战使用的提示咒语。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Sort of Magic 多人指南",
+          "description": "最多四名玩家分摊棋盘、协调倒液、共同通关的联机技巧。",
+          "href": "/guide/sort-of-magic-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "建立共享会话，让每位玩家负责棋盘的不同区域。"
+            },
+            {
+              "label": "2",
+              "detail": "倒液前先喊出你需要的颜色，让队友留出同色的顶部。"
+            },
+            {
+              "label": "3",
+              "detail": "为负责最难一叠的玩家预留一支空试管。"
+            },
+            {
+              "label": "4",
+              "detail": "使用道具前先暂停，别浪费在队友能通关的棋盘上。"
+            },
+            {
+              "label": "5",
+              "detail": "一起复盘已通关的棋盘，并在重开前规划下一关。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Sort of Magic 房间指南",
+          "description": "逐个房间介绍魔法学校的区域，以及每个区域等待你的整理挑战。",
+          "href": "/levels/sort-of-magic-levels",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "图书馆",
+              "detail": "以书脊颜色堆叠能最快通关的书本棋盘。"
+            },
+            {
+              "label": "药水实验室",
+              "detail": "需要在下手前谨慎排序的混色瓶子。"
+            },
+            {
+              "label": "温室",
+              "detail": "在关卡阶段之间补充的植物与种子试管。"
+            },
+            {
+              "label": "储藏室",
+              "detail": "学校里试管容量最紧张、最杂乱的货架。"
+            },
+            {
+              "label": "高塔",
+              "detail": "结合了此前所有机制的后期房间。"
+            },
+            {
+              "label": "金库",
+              "detail": "在完整连胜每日挑战后开启的奖励房间。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Sort of Magic 成就指南",
+          "description": "为通关每个关卡和每日连胜的玩家带来奖励的里程碑与挑战全收集指南。",
+          "href": "/tips/sort-of-magic-secrets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "首胜",
+              "detail": "不使用撤销完成开局关卡。"
+            },
+            {
+              "label": "连胜 7",
+              "detail": "连续七天通关每日挑战。"
+            },
+            {
+              "label": "完美",
+              "detail": "不浪费任何一次倒液完成一个关卡。"
+            },
+            {
+              "label": "不用道具",
+              "detail": "在完全不使用道具的情况下通关高难关卡。"
+            },
+            {
+              "label": "收藏家",
+              "detail": "至少为学校里的每个物品类别分类一次。"
+            },
+            {
+              "label": "速通",
+              "detail": "在目标步数内完成整个房间。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Sort of Magic 新闻与更新",
+          "description": "持续汇总 Sort of Magic 的发售新闻、新关卡、补丁与平台更新。",
+          "href": "/updates/sort-of-magic-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "新关卡",
+              "detail": "最近的更新加入基于最新机制的全新关卡。"
+            },
+            {
+              "label": "补丁",
+              "detail": "修复版本让倒液、撤销和每日重置保持顺畅。"
+            },
+            {
+              "label": "活动",
+              "detail": "季节性活动加入限时棋盘与外观奖励。"
+            },
+            {
+              "label": "移动端",
+              "detail": "Android 与 iOS 版本紧跟 PC 更新节奏。"
+            },
+            {
+              "label": "发售",
+              "detail": "官方公告发布后汇总的上线与平台消息。"
+            },
+            {
+              "label": "评测",
+              "detail": "玩家对新内容与难度调整的印象。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "常见问题",
+      "description": "关于 Sort of Magic 最常见问题的快速解答。",
+      "items": [
+        {
+          "question": "什么是 Sort of Magic？",
+          "answer": "Sort of Magic 是一款温馨的魔法主题分类解谜游戏。每一关都会给你一组装满彩色色段的试管，你把顶部的颜色倒到同色的一叠或空试管上，直到每支试管只装一种颜色。"
+        },
+        {
+          "question": "Sort of Magic 怎么玩？",
+          "answer": "先读整个棋盘，保留一支空试管作为操作空间，只把颜色倒到同色顶部或空试管上。Sort of Magic 奖励规划而非速度。"
+        },
+        {
+          "question": "Sort of Magic 有每日挑战吗？",
+          "answer": "有。Sort of Magic 的每日挑战按固定时间表刷新，随你的进度扩展，并会为天天通关的你提供连胜奖励。"
+        },
+        {
+          "question": "Sort of Magic 有多少关？",
+          "answer": "Sort of Magic 围绕不断攀升的关卡阶段构建，最终达到第 100 关里程碑，每个阶段都会为整理规则带来新变化。"
+        },
+        {
+          "question": "Sort of Magic 能联机吗？",
+          "answer": "Sort of Magic 支持单人游玩和最多四人在线联机，你可以与好友分摊棋盘，也可以独自通关。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "准备好精通 Sort of Magic 了吗？",
+      "description": "从你第一间杂乱的房间到完全复原的魔法学校，我们的社区维基都为你准备了免费且最新的指南。",
+      "primary": "阅读新手指南",
+      "secondary": "在 Steam 上畅玩"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Sort of Magic 指南",
+    "overviewDescription": "Sort of Magic 的新手指南、攻略与分步教程。"
+  },
+  "levels": {
+    "overviewTitle": "Sort of Magic 关卡",
+    "overviewDescription": "每个 Sort of Magic 关卡的关卡列表、关卡解法与高难关卡技巧。"
+  },
+  "mechanics": {
+    "overviewTitle": "Sort of Magic 机制",
+    "overviewDescription": "Sort of Magic 如何运作：解谜机制、玩法循环与每日挑战。"
+  },
+  "tips": {
+    "overviewTitle": "Sort of Magic 技巧",
+    "overviewDescription": "更快解开 Sort of Magic 谜题的策略、提示与秘密。"
+  },
+  "controls": {
+    "overviewTitle": "Sort of Magic 操作",
+    "overviewDescription": "在移动端和桌面端游玩 Sort of Magic 的操作、招式与设置。"
+  },
+  "updates": {
+    "overviewTitle": "Sort of Magic 更新",
+    "overviewDescription": "最新的 Sort of Magic 更新、新关卡、发售日新闻与社区亮点。"
+  },
+  "shared": {
+    "wikiNavigation": "维基导航",
+    "activeCodes": "有效兑换码",
+    "updated": "更新于",
+    "viewAllCodes": "查看所有兑换码",
+    "playOnRoblox": "在 Roblox 上畅玩",
+    "inThisSection": "本节内容",
+    "tableOfContents": "目录",
+    "nextSteps": "下一步",
+    "needHelp": "需要帮助？",
+    "relatedReading": "相关阅读",
+    "relatedGuides": "相关指南",
+    "readMore": "阅读更多",
+    "officialMedia": "官方媒体",
+    "home": "首页",
+    "noGuidesAvailable": "暂无指南，敬请期待！"
+  },
+  "footer": {
+    "aboutTitle": "Sort of Magic Wiki",
+    "about": "Sort of Magic Wiki 是一个独立的粉丝指南站，涵盖整理策略、咒语、房间攻略、联机技巧，以及新老玩家都需要的核心游戏知识。",
+    "quickLinks": "快速链接",
+    "guides": "指南",
+    "legal": "法律",
+    "copyright": "2026 Sort of Magic Wiki。与 Riwon 或 Valve 无关联。",
+    "description": "Steam 上的温馨魔法组织冒险。为数千件物品分类、解锁咒语，单人游玩或联机。",
+    "playGame": "在 Steam 上畅玩",
+    "officialDiscord": "官方 Discord",
+    "officialYoutube": "官方 YouTube",
+    "vvBuilder": "联机指南",
+    "beginnerGuide": "新手指南",
+    "raceGuides": "竞速指南",
+    "bossGuides": "首领指南",
+    "buildGuide": "构筑指南",
+    "privacyPolicy": "隐私政策",
+    "termsOfService": "服务条款"
+  }
+}

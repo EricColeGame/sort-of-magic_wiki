@@ -1,1 +1,519 @@
-{}
+{
+  "site": {
+    "name": "Sort of Magic Wiki",
+    "shortName": "Sort of Magic",
+    "tagline": "아늑한 마법 학교 정리 가이드, 주문 & 협동 팁",
+    "description": "이 아늑한 마법 조직 어드벤처 게임 『Sort of Magic』의 가이드, 주문 팁, 방 공략, 협동 전략, 정리 조언을 소개하는 Sort of Magic Wiki에 오신 것을 환영합니다.",
+    "legalNotice": "비공식 팬 위키입니다. 플레이어가 플레이어를 위해 만들었습니다."
+  },
+  "nav": {
+    "guide": "가이드",
+    "levels": "레벨",
+    "mechanics": "메커니즘",
+    "tips": "팁",
+    "controls": "조작",
+    "updates": "업데이트",
+    "menu": "메뉴",
+    "toggleTheme": "테마 전환"
+  },
+  "home": {
+    "meta": {
+      "title": "Sort of Magic Wiki - 가이드, 주문 & 협동 팁",
+      "description": "이 아늑한 마법 조직 어드벤처 게임 『Sort of Magic』의 가이드, 주문 팁, 방 공략, 협동 전략, 정리 조언을 소개하는 Sort of Magic Wiki에 오신 것을 환영합니다."
+    },
+    "hero": {
+      "eyebrow": "아늑한 마법 조직 어드벤처",
+      "title": "Sort of Magic Wiki",
+      "description": "Sort of Magic은 마법 고양이를 조종해 어질러진 마법 학교를 정리하고, 수천 개의 물건을 분류하고, 주문을 해금하며, 싱글 또는 친구와 온라인 협동으로 즐기는 아늑한 판타지 정리 게임입니다.",
+      "stats": [
+        "4500+ 물건",
+        "6개 방",
+        "1-4명",
+        "매주 업데이트"
+      ],
+      "primaryCta": "Steam에서 플레이",
+      "secondaryCta": "초보자 가이드",
+      "tertiaryCta": "협동 가이드",
+      "videoLabel": "공식 트레일러"
+    },
+    "updates": {
+      "title": "최신 업데이트",
+      "browse": "모든 가이드 보기",
+      "viewAll": "전체 보기"
+    },
+    "start": {
+      "eyebrow": "여기서 시작하세요",
+      "title": "당신의 Sort of Magic 여정",
+      "cards": [
+        {
+          "number": "1",
+          "title": "초보자 가이드",
+          "description": "핵심 정리 루프, 붓는 방식, 첫 레벨을 통과하게 해 주는 습관을 배우세요."
+        },
+        {
+          "number": "2",
+          "title": "플레이 방법",
+          "description": "튜브 규칙, 색 쌓기, 깔끔하게 클리어하는 계획 루틴을 이해하세요."
+        },
+        {
+          "number": "3",
+          "title": "레벨 공략",
+          "description": "고집스러운 스테이지를 반복 가능한 방법으로 읽고 막힘을 피하며 공략하세요."
+        },
+        {
+          "number": "4",
+          "title": "데일리 챌린지",
+          "description": "짧은 틈새 시간을 연속 보상과 매일의 보드 팁으로 꾸준한 진전으로 바꾸세요."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "인기 페이지",
+      "title": "지금 인기",
+      "quickLinks": [
+        "초보자 가이드",
+        "데일리 챌린지",
+        "레벨 공략",
+        "워터 소트 규칙"
+      ],
+      "cards": [
+        {
+          "badge": "초보자",
+          "title": "초보자 가이드",
+          "description": "첫 Sort of Magic 보드를 자신 있게 클리어하는 데 필요한 모든 것.",
+          "href": "/guide/sort-of-magic-beginner-guide"
+        },
+        {
+          "badge": "핵심",
+          "title": "플레이 방법",
+          "description": "깔끔한 클리어를 위한 튜브 규칙, 붓기 논리, 계획 습관.",
+          "href": "/guide/sort-of-magic-how-to-play"
+        },
+        {
+          "badge": "레벨",
+          "title": "레벨 공략",
+          "description": "고집스러운 스테이지를 읽고 막힘에서 벗어나는 반복 가능한 방법.",
+          "href": "/levels/sort-of-magic-level-solutions"
+        },
+        {
+          "badge": "데일리",
+          "title": "데일리 챌린지",
+          "description": "리셋 타이머, 연속 보너스, 매일 클리어를 이어 가는 습관.",
+          "href": "/mechanics/sort-of-magic-daily-challenge"
+        },
+        {
+          "badge": "메커니즘",
+          "title": "워터 소트 규칙",
+          "description": "같은 색 쌓기, 블록 붓기, 빈 튜브가 실제로 작동하는 방식.",
+          "href": "/mechanics/sort-of-magic-water-sort"
+        },
+        {
+          "badge": "팁",
+          "title": "전략 팁",
+          "description": "중반을 넘어서게 하는 보드 읽기 습관과 부스터 절약.",
+          "href": "/tips/sort-of-magic-strategies"
+        },
+        {
+          "badge": "고난도",
+          "title": "고난도 레벨",
+          "description": "부스터를 다 써 버리지 않고 최고 난도 스테이지를 이기는 방법.",
+          "href": "/levels/sort-of-magic-hard-levels"
+        },
+        {
+          "badge": "업데이트",
+          "title": "최신 업데이트",
+          "description": "최근 Sort of Magic 패치가 무엇을 바꿨고 어떻게 적응할지.",
+          "href": "/updates/sort-of-magic-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Sort of Magic이란?",
+      "paragraphs": [
+        "Sort of Magic은 모든 스테이지가 색이 있는 액체 튜브로 구성된 아늑한 마법 테마 정리 퍼즐 게임입니다. 한 튜브의 맨 위 조각을 같은 색이나 빈 튜브로 옮기고, 각 스택이 단일 색이 될 때까지 반복해 어질러진 보드를 깔끔하고 정돈된 선반으로 바꿉니다.",
+        "캠페인은 이 핵심 규칙을 점점 올라가는 레벨 단계로 확장하고, 데일리 챌린지는 정해진 일정에 따라 새로운 보드, 연속 보너스, 보상 단계를 추가합니다. Sort of Magic은 싱글 플레이와 최대 4인 온라인 협동을 지원하므로 혼자 보드를 계획하거나 친구와 함께 진행할 수 있습니다."
+      ],
+      "stats": [
+        {
+          "label": "개발사",
+          "value": "Riwon"
+        },
+        {
+          "label": "플랫폼",
+          "value": "Steam (PC)"
+        },
+        {
+          "label": "장르",
+          "value": "아늑한 정리 퍼즐"
+        },
+        {
+          "label": "물건",
+          "value": "4500+"
+        },
+        {
+          "label": "방",
+          "value": "6"
+        },
+        {
+          "label": "플레이어",
+          "value": "1-4"
+        },
+        {
+          "label": "레벨",
+          "value": "100+"
+        },
+        {
+          "label": "데일리 리셋",
+          "value": "고정 일정"
+        }
+      ],
+      "cta": "초보자 가이드 읽기"
+    },
+    "explore": {
+      "title": "Sort of Magic Wiki 둘러보기",
+      "description": "모든 Sort of Magic 가이드를 한곳에: 초보자 공략, 레벨 공략, 아이템 정보, 주문 티어, 협동 팁, 최신 업데이트.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Sort of Magic 초보자 가이드",
+          "description": "핵심 정리 루프, 붓기 방식, 신규 플레이어가 첫 레벨을 클리어하도록 돕는 습관을 초보자 눈높이로 설명한 공략.",
+          "href": "/guide/sort-of-magic-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "먼저 보드 전체를 살피고 이미 함께 쌓여 있는 색을 메모하세요."
+            },
+            {
+              "label": "2",
+              "detail": "색 종류가 가장 적은 튜브부터 시작하세요. 가장 빨리 완성됩니다."
+            },
+            {
+              "label": "3",
+              "detail": "같은 색 맨 위나 빈 튜브에만 부으세요. 다른 이동은 거부됩니다."
+            },
+            {
+              "label": "4",
+              "detail": "작업 공간으로 쓸 수 있도록 튜브 하나를 가능한 오래 비워 두세요."
+            },
+            {
+              "label": "5",
+              "detail": "아래에서 아직 필요한 색을 덮어 버리는 순간 그 붓기를 바로 되돌리세요."
+            },
+            {
+              "label": "6",
+              "detail": "튜브마다 한 색씩 완성하고, 데일리 챌린지로 더 어려운 보드를 연습하세요."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Sort of Magic 게임플레이 가이드",
+          "description": "퍼즐 플레이를 자세히 살펴봅니다: 보드 읽기, 붓기 계획, 부스터 관리, 데일리 챌린지를 꾸준한 진전으로 바꾸는 법.",
+          "href": "/mechanics/sort-of-magic-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "튜브",
+              "detail": "각 튜브는 색 조각 더미를 담고 있으며 맨 위 조각만 이동할 수 있습니다."
+            },
+            {
+              "label": "붓기",
+              "detail": "같은 색이 이어진 부분은 같은 색 위에 닿으면 함께 이동합니다."
+            },
+            {
+              "label": "계획",
+              "detail": "올바른 수라도 순서가 틀리면 대개 실패하므로 먼저 보드 전체를 읽으세요."
+            },
+            {
+              "label": "부스터",
+              "detail": "한정된 부스터는 초반 실수가 아니라 정말 막힌 보드를 위해 아껴 두세요."
+            },
+            {
+              "label": "데일리",
+              "detail": "데일리 챌린지는 정해진 일정에 리셋되고 진행도에 맞춰 조정됩니다."
+            },
+            {
+              "label": "연속",
+              "detail": "매일 데일리 챌린지를 클리어하면 몇 주에 걸쳐 연속 보너스가 쌓입니다."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Sort of Magic 아이템 가이드",
+          "description": "마법 학교에서 분류하는 물건 정보: 주문서와 물약부터 빗자루와 빛나는 재료까지.",
+          "href": "/mechanics/sort-of-magic-sorting-puzzle",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "마법서",
+              "detail": "도서관 구역에서 맞는 선반에 분류하는 주문서."
+            },
+            {
+              "label": "물약",
+              "detail": "퍼즐 튜브와 같은 쌓기 규칙을 따르는 색 구분 병."
+            },
+            {
+              "label": "빗자루",
+              "detail": "선반이 비면 보관실로 돌려놓는 청소 도구."
+            },
+            {
+              "label": "수정",
+              "detail": "선반에 올리기 전에 색조별로 묶는 빛나는 재료."
+            },
+            {
+              "label": "가마솥",
+              "detail": "준비된 작업실 슬롯에만 들어가는 무거운 설비."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Sort of Magic 주문 가이드",
+          "description": "보드를 드러내는 주문부터 빡빡한 스테이지를 여는 추가 튜브까지, 정리를 돕는 주문과 도구의 등급 가이드.",
+          "href": "/tips/sort-of-magic-strategies",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "막힌 보드에서 다음 유효한 붓기를 보여 주는 공개 주문."
+            },
+            {
+              "label": "A",
+              "detail": "흩어진 조각을 한 스택으로 모으는 색 정리 주문."
+            },
+            {
+              "label": "B",
+              "detail": "보드가 빡빡할 때 작업 공간을 늘려 주는 추가 튜브 주문."
+            },
+            {
+              "label": "C",
+              "detail": "데일리 챌린지 시도에 남겨 두는 것이 가장 좋은 힌트 주문."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Sort of Magic 멀티플레이 가이드",
+          "description": "최대 4명이 보드를 나누고 붓기를 조율하며 함께 레벨을 클리어하는 협동 팁.",
+          "href": "/guide/sort-of-magic-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "공유 세션을 만들어 각 플레이어가 보드의 다른 구역을 맡게 하세요."
+            },
+            {
+              "label": "2",
+              "detail": "붓기 전에 필요한 색을 알려 팀원이 같은 색 맨 위를 남기게 하세요."
+            },
+            {
+              "label": "3",
+              "detail": "가장 어려운 더미를 맡은 플레이어를 위해 빈 튜브 하나를 남겨 두세요."
+            },
+            {
+              "label": "4",
+              "detail": "부스터를 쓰기 전에 잠시 멈춰 팀원이 클리어할 수 있는 보드에 낭비하지 마세요."
+            },
+            {
+              "label": "5",
+              "detail": "클리어한 보드를 함께 돌아보고 재시작 전에 다음 레벨을 계획하세요."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Sort of Magic 방 가이드",
+          "description": "마법 학교의 각 구역과 그곳에 기다리는 정리 챌린지를 방별로 살펴봅니다.",
+          "href": "/levels/sort-of-magic-levels",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "도서관",
+              "detail": "책등 색으로 쌓으면 가장 빨리 클리어되는 책이 많은 보드."
+            },
+            {
+              "label": "물약 실험실",
+              "detail": "붓기 전에 신중한 순서가 필요한 혼합색 병."
+            },
+            {
+              "label": "온실",
+              "detail": "레벨 단계 사이에 보충되는 식물과 씨앗 튜브."
+            },
+            {
+              "label": "보관실",
+              "detail": "학교에서 튜브 용량이 가장 빡빡한 어질러진 선반."
+            },
+            {
+              "label": "탑",
+              "detail": "이전에 등장한 모든 메커니즘을 결합한 후반 방."
+            },
+            {
+              "label": "금고",
+              "detail": "데일리 챌린지를 완전히 연속 클리어하면 열리는 보상 방."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Sort of Magic 업적 가이드",
+          "description": "모든 스테이지와 데일리 연속을 클리어한 플레이어에게 보상하는 마일스톤과 챌린지 완성 가이드.",
+          "href": "/tips/sort-of-magic-secrets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "첫 승리",
+              "detail": "되돌리기를 쓰지 않고 첫 레벨을 완료."
+            },
+            {
+              "label": "7일 연속",
+              "detail": "데일리 챌린지를 7일 연속으로 클리어."
+            },
+            {
+              "label": "완벽",
+              "detail": "단 한 번의 낭비 붓기도 없이 스테이지 완료."
+            },
+            {
+              "label": "부스터 없이",
+              "detail": "부스터를 전혀 쓰지 않고 고난도 레벨 클리어."
+            },
+            {
+              "label": "수집가",
+              "detail": "학교의 모든 아이템 범주를 최소 한 번씩 분류."
+            },
+            {
+              "label": "스피드런",
+              "detail": "목표 이동 수 안에 방 전체를 완료."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Sort of Magic 뉴스와 업데이트",
+          "description": "Sort of Magic의 출시 뉴스, 신규 레벨, 패치, 플랫폼 업데이트를 계속 모은 모음.",
+          "href": "/updates/sort-of-magic-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "신규 레벨",
+              "detail": "최근 업데이트는 최신 메커니즘을 바탕으로 한 새 스테이지를 추가합니다."
+            },
+            {
+              "label": "패치",
+              "detail": "버그 수정 릴리스로 붓기, 되돌리기, 데일리 리셋이 원활하게 작동합니다."
+            },
+            {
+              "label": "이벤트",
+              "detail": "시즌 이벤트는 기간 한정 보드와 꾸미기 보상을 추가합니다."
+            },
+            {
+              "label": "모바일",
+              "detail": "Android와 iOS 버전은 PC 업데이트 일정을 따릅니다."
+            },
+            {
+              "label": "출시",
+              "detail": "공식 발표가 나오는 대로 모은 론칭과 플랫폼 소식."
+            },
+            {
+              "label": "리뷰",
+              "detail": "새 콘텐츠와 난이도 변화에 대한 플레이어 인상."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "자주 묻는 질문",
+      "description": "Sort of Magic에 관한 가장 흔한 질문의 빠른 답변.",
+      "items": [
+        {
+          "question": "Sort of Magic이란?",
+          "answer": "Sort of Magic은 아늑한 마법 테마 정리 퍼즐 게임입니다. 각 레벨은 색 조각으로 채워진 튜브 세트를 주고, 맨 위 색을 같은 색 더미나 빈 튜브에 부어 모든 튜브가 한 가지 색만 담을 때까지 진행합니다."
+        },
+        {
+          "question": "Sort of Magic은 어떻게 플레이하나요?",
+          "answer": "먼저 보드 전체를 읽고, 작업 공간으로 튜브 하나를 비워 두고, 같은 색 맨 위나 빈 튜브에만 색을 붓습니다. Sort of Magic은 속도보다 계획에 보상합니다."
+        },
+        {
+          "question": "Sort of Magic에 데일리 챌린지가 있나요?",
+          "answer": "네. Sort of Magic 데일리 챌린지는 정해진 일정에 새로고침되고 진행도에 맞춰 조정되며, 매일 클리어하면 연속 보너스를 줍니다."
+        },
+        {
+          "question": "Sort of Magic은 레벨이 몇 개인가요?",
+          "answer": "Sort of Magic은 레벨 100 마일스톤을 향해 올라가는 레벨 단계로 구성되며, 각 단계마다 정리 규칙에 새로운 변형이 더해집니다."
+        },
+        {
+          "question": "Sort of Magic은 협동 플레이가 되나요?",
+          "answer": "Sort of Magic은 싱글 플레이와 최대 4인 온라인 협동을 지원하므로 친구와 보드를 나누거나 혼자 클리어할 수 있습니다."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Sort of Magic을 마스터할 준비가 되셨나요?",
+      "description": "처음의 어질러진 방부터 완전히 복원된 마법 학교까지, 커뮤니티 위키가 무료 최신 가이드로 도와드립니다.",
+      "primary": "초보자 가이드 읽기",
+      "secondary": "Steam에서 플레이"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Sort of Magic 가이드",
+    "overviewDescription": "Sort of Magic의 초보자 가이드, 공략, 단계별 튜토리얼."
+  },
+  "levels": {
+    "overviewTitle": "Sort of Magic 레벨",
+    "overviewDescription": "모든 Sort of Magic 스테이지의 레벨 목록, 레벨 공략, 고난도 레벨 팁."
+  },
+  "mechanics": {
+    "overviewTitle": "Sort of Magic 메커니즘",
+    "overviewDescription": "Sort of Magic의 작동 방식: 퍼즐 메커니즘, 게임플레이 루프, 데일리 챌린지."
+  },
+  "tips": {
+    "overviewTitle": "Sort of Magic 팁",
+    "overviewDescription": "Sort of Magic 퍼즐을 더 빨리 푸는 전략, 힌트, 비밀."
+  },
+  "controls": {
+    "overviewTitle": "Sort of Magic 조작",
+    "overviewDescription": "모바일과 데스크톱에서 Sort of Magic을 플레이하는 조작, 동작, 설정."
+  },
+  "updates": {
+    "overviewTitle": "Sort of Magic 업데이트",
+    "overviewDescription": "최신 Sort of Magic 업데이트, 신규 레벨, 출시일 뉴스, 커뮤니티 하이라이트."
+  },
+  "shared": {
+    "wikiNavigation": "위키 내비게이션",
+    "activeCodes": "사용 가능한 코드",
+    "updated": "업데이트",
+    "viewAllCodes": "모든 코드 보기",
+    "playOnRoblox": "Roblox에서 플레이",
+    "inThisSection": "이 섹션",
+    "tableOfContents": "목차",
+    "nextSteps": "다음 단계",
+    "needHelp": "도움이 필요하신가요?",
+    "relatedReading": "관련 읽을거리",
+    "relatedGuides": "관련 가이드",
+    "readMore": "더 보기",
+    "officialMedia": "공식 미디어",
+    "home": "홈",
+    "noGuidesAvailable": "아직 가이드가 없습니다. 곧 업데이트됩니다!"
+  },
+  "footer": {
+    "aboutTitle": "Sort of Magic Wiki",
+    "about": "Sort of Magic Wiki는 정리 전략, 주문, 방 공략, 협동 팁, 그리고 신규와 숙련 플레이어 모두에게 필요한 핵심 게임 지식을 다루는 독립 팬 제작 가이드 허브입니다.",
+    "quickLinks": "빠른 링크",
+    "guides": "가이드",
+    "legal": "법적 고지",
+    "copyright": "2026 Sort of Magic Wiki. Riwon 또는 Valve와 제휴하지 않았습니다.",
+    "description": "Steam의 아늑한 마법 조직 어드벤처. 수천 개의 물건을 분류하고, 주문을 해금하며, 싱글 또는 협동으로 플레이하세요.",
+    "playGame": "Steam에서 플레이",
+    "officialDiscord": "공식 Discord",
+    "officialYoutube": "공식 YouTube",
+    "vvBuilder": "협동 가이드",
+    "beginnerGuide": "초보자 가이드",
+    "raceGuides": "레이스 가이드",
+    "bossGuides": "보스 가이드",
+    "buildGuide": "빌드 가이드",
+    "privacyPolicy": "개인정보 처리방침",
+    "termsOfService": "이용약관"
+  }
+}

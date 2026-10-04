@@ -1,1 +1,519 @@
-{}
+{
+  "site": {
+    "name": "Sort of Magic Wiki",
+    "shortName": "Sort of Magic",
+    "tagline": "心地よい魔法学校の整理ガイド、呪文＆協力プレイのコツ",
+    "description": "この居心地の良い魔法組織アドベンチャーゲーム『Sort of Magic』のガイド、呪文のコツ、部屋の攻略、協力プレイ戦略、整理のアドバイスを紹介する Sort of Magic Wiki へようこそ。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーがプレイヤーのために作っています。"
+  },
+  "nav": {
+    "guide": "ガイド",
+    "levels": "レベル",
+    "mechanics": "メカニクス",
+    "tips": "コツ",
+    "controls": "操作",
+    "updates": "更新",
+    "menu": "メニュー",
+    "toggleTheme": "テーマ切替"
+  },
+  "home": {
+    "meta": {
+      "title": "Sort of Magic Wiki - ガイド、呪文＆協力プレイのコツ",
+      "description": "この居心地の良い魔法組織アドベンチャーゲーム『Sort of Magic』のガイド、呪文のコツ、部屋の攻略、協力プレイ戦略、整理のアドバイスを紹介する Sort of Magic Wiki へようこそ。"
+    },
+    "hero": {
+      "eyebrow": "心地よい魔法組織アドベンチャー",
+      "title": "Sort of Magic Wiki",
+      "description": "Sort of Magic は、魔法の猫を操作して散らかった魔法学校を整理し、何千ものオブジェクトを仕分け、呪文を解放し、ソロまたはフレンドとのオンライン協力プレイを楽しむ、心地よいファンタジー整理ゲームです。",
+      "stats": [
+        "4500+ オブジェクト",
+        "6 部屋",
+        "1〜4 人",
+        "毎週更新"
+      ],
+      "primaryCta": "Steam でプレイ",
+      "secondaryCta": "初心者ガイド",
+      "tertiaryCta": "協力プレイガイド",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "まずはここから",
+      "title": "Sort of Magic の旅",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "基本の整理ループ、注ぎ方の仕組み、最初のレベルを突破するための習慣を学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "遊び方",
+          "description": "チューブのルール、色の積み重ね、きれいにクリアするための計画手順を理解しましょう。"
+        },
+        {
+          "number": "3",
+          "title": "レベル攻略",
+          "description": "手強いステージを、盤面を読んで行き詰まりを避ける再現可能な方法で攻略しましょう。"
+        },
+        {
+          "number": "4",
+          "title": "デイリーチャレンジ",
+          "description": "わずかな空き時間を、連続報酬と毎日の盤面のコツで着実な進歩に変えましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま話題",
+      "quickLinks": [
+        "初心者ガイド",
+        "デイリーチャレンジ",
+        "レベル攻略",
+        "ウォーターソートのルール"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "最初の Sort of Magic の盤面を自信を持ってクリアするために必要なすべて。",
+          "href": "/guide/sort-of-magic-beginner-guide"
+        },
+        {
+          "badge": "基本",
+          "title": "遊び方",
+          "description": "きれいにクリアするためのチューブのルール、注ぐ論理、計画の習慣。",
+          "href": "/guide/sort-of-magic-how-to-play"
+        },
+        {
+          "badge": "レベル",
+          "title": "レベル攻略",
+          "description": "手強いステージを読み、行き詰まりから脱出するための再現可能な方法。",
+          "href": "/levels/sort-of-magic-level-solutions"
+        },
+        {
+          "badge": "デイリー",
+          "title": "デイリーチャレンジ",
+          "description": "リセットタイマー、連続ボーナス、毎日クリアを続ける習慣。",
+          "href": "/mechanics/sort-of-magic-daily-challenge"
+        },
+        {
+          "badge": "メカニクス",
+          "title": "ウォーターソートのルール",
+          "description": "色が一致したスタック、ブロック注ぎ、空のチューブが実際にどう機能するか。",
+          "href": "/mechanics/sort-of-magic-water-sort"
+        },
+        {
+          "badge": "コツ",
+          "title": "戦略のコツ",
+          "description": "中盤を越えていくための盤面を読む習慣とブースターの節約。",
+          "href": "/tips/sort-of-magic-strategies"
+        },
+        {
+          "badge": "高難度",
+          "title": "高難度レベル",
+          "description": "ブースターを使い切らずに最難関ステージを突破する方法。",
+          "href": "/levels/sort-of-magic-hard-levels"
+        },
+        {
+          "badge": "更新",
+          "title": "最新アップデート",
+          "description": "最近の Sort of Magic パッチで何が変わり、どう対応するか。",
+          "href": "/updates/sort-of-magic-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Sort of Magic とは？",
+      "paragraphs": [
+        "Sort of Magic は、すべてのステージが色のついた液体のチューブで構成される、心地よい魔法をテーマにした整理パズルゲームです。1 本のチューブの一番上のセグメントを、同じ色か空のチューブに移し、各スタックが単色になるまで続けて、散らかった盤面をきれいに整った棚に変えていきます。",
+        "キャンペーンはこの基本ルールを段階的に上がるレベル層に広げ、デイリーチャレンジは決まったスケジュールで新しい盤面、連続ボーナス、報酬段階を追加します。Sort of Magic はソロプレイと最大 4 人のオンライン協力プレイに対応しているので、一人で盤面を計画することも、フレンドと一緒に進めることもできます。"
+      ],
+      "stats": [
+        {
+          "label": "開発元",
+          "value": "Riwon"
+        },
+        {
+          "label": "プラットフォーム",
+          "value": "Steam (PC)"
+        },
+        {
+          "label": "ジャンル",
+          "value": "心地よい整理パズル"
+        },
+        {
+          "label": "オブジェクト",
+          "value": "4500+"
+        },
+        {
+          "label": "部屋",
+          "value": "6"
+        },
+        {
+          "label": "プレイヤー",
+          "value": "1〜4"
+        },
+        {
+          "label": "レベル",
+          "value": "100+"
+        },
+        {
+          "label": "デイリーリセット",
+          "value": "固定スケジュール"
+        }
+      ],
+      "cta": "初心者ガイドを読む"
+    },
+    "explore": {
+      "title": "Sort of Magic Wiki を探検",
+      "description": "すべての Sort of Magic ガイドを一か所に：初心者向け攻略、レベル攻略、アイテム解説、呪文ティア、協力プレイのコツ、最新アップデート。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Sort of Magic 初心者ガイド",
+          "description": "基本の整理ループ、注ぎ方の仕組み、新規プレイヤーが最初のレベルをクリアするのに役立つ習慣を、初心者向けに解説した攻略。",
+          "href": "/guide/sort-of-magic-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "まず盤面全体を確認し、すでに積み重なっている色をメモしましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "色の数が最も少ないチューブから始めましょう。最も早く完成します。"
+            },
+            {
+              "label": "3",
+              "detail": "同じ色の一番上か空のチューブにだけ注ぎましょう。それ以外の手は無効です。"
+            },
+            {
+              "label": "4",
+              "detail": "作業スペースとして、できるだけ長く 1 本のチューブを空けておきましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "さらに下で必要な色を埋めてしまったら、その注ぎはすぐに元に戻しましょう。"
+            },
+            {
+              "label": "6",
+              "detail": "各チューブを 1 色ずつ完成させ、デイリーチャレンジで難しい盤面を練習しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Sort of Magic ゲームプレイガイド",
+          "description": "パズルの遊び方を詳しく解説：盤面の読み方、注ぐ計画、ブースターの管理、デイリーチャレンジを着実な進歩に変える方法。",
+          "href": "/mechanics/sort-of-magic-gameplay",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "チューブ",
+              "detail": "各チューブは色のついたセグメントのスタックを保持し、一番上のセグメントだけが移動できます。"
+            },
+            {
+              "label": "注ぐ",
+              "detail": "同じ色の連続は、同じ色の上に着地するとまとめて移動します。"
+            },
+            {
+              "label": "計画",
+              "detail": "正しい手でも順序を間違えるとたいてい失敗するので、まず盤面全体を読みましょう。"
+            },
+            {
+              "label": "ブースター",
+              "detail": "限られたブースターは、序盤のミスではなく本当に行き詰まった盤面のために取っておきましょう。"
+            },
+            {
+              "label": "デイリー",
+              "detail": "デイリーチャレンジは決まったスケジュールでリセットされ、進行度に応じてスケールします。"
+            },
+            {
+              "label": "連続記録",
+              "detail": "デイリーチャレンジを毎日クリアすると、数週間で連続ボーナスが積み上がります。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Sort of Magic アイテムガイド",
+          "description": "魔法学校で仕分けるオブジェクトの解説：呪文書やポーションから、ほうきや光る素材まで。",
+          "href": "/mechanics/sort-of-magic-sorting-puzzle",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "グリモワール",
+              "detail": "図書室の翼で対応する棚に仕分ける呪文書。"
+            },
+            {
+              "label": "ポーション",
+              "detail": "パズルのチューブと同じ積み重ねルールに従う、色分けされた瓶。"
+            },
+            {
+              "label": "ほうき",
+              "detail": "棚が片付いたら収納室に戻す清掃道具。"
+            },
+            {
+              "label": "クリスタル",
+              "detail": "棚に並べる前に色相ごとにまとめる、光る素材。"
+            },
+            {
+              "label": "大釜",
+              "detail": "準備された作業場のスロットにしか収まらない重い設備。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Sort of Magic 呪文ガイド",
+          "description": "盤面を公開する呪文から、厳しいステージを打開する追加チューブまで、整理を支える呪文と道具のランク付きガイド。",
+          "href": "/tips/sort-of-magic-strategies",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "行き詰まった盤面で次の有効な注ぎを示す公開呪文。"
+            },
+            {
+              "label": "A",
+              "detail": "散らばったセグメントを 1 つのスタックに集める色整理の呪文。"
+            },
+            {
+              "label": "B",
+              "detail": "盤面が厳しいときに作業スペースを増やす追加チューブの呪文。"
+            },
+            {
+              "label": "C",
+              "detail": "デイリーチャレンジの挑戦のために取っておくのが最適なヒント呪文。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Sort of Magic マルチプレイガイド",
+          "description": "最大 4 人で盤面を分担し、注ぎを調整し、一緒にレベルをクリアするための協力プレイのコツ。",
+          "href": "/guide/sort-of-magic-how-to-play",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "共有セッションを設定し、各プレイヤーが盤面の異なる部分を担当しましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "注ぐ前に必要な色を伝え、味方が同じ色の一番上を残せるようにしましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "最も難しいスタックを担当するプレイヤーのために、空のチューブを 1 本確保しましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "ブースターを使う前に一度止まり、味方がクリアできる盤面で無駄にしないようにしましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "クリアした盤面を一緒に振り返り、再開する前に次のレベルを計画しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Sort of Magic 部屋ガイド",
+          "description": "魔法学校の各エリアと、それぞれに待つ整理チャレンジを部屋ごとに紹介。",
+          "href": "/levels/sort-of-magic-levels",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "図書室",
+              "detail": "背表紙の色で積み重ねると最速でクリアできる、本の多い盤面。"
+            },
+            {
+              "label": "ポーション研究室",
+              "detail": "注ぐ前に慎重な順序が求められる、混色の瓶。"
+            },
+            {
+              "label": "温室",
+              "detail": "レベルの段階の間に補充される、植物と種のチューブ。"
+            },
+            {
+              "label": "収納室",
+              "detail": "学校で最もチューブ容量が厳しい、散らかった棚。"
+            },
+            {
+              "label": "塔",
+              "detail": "それまでに登場したすべてのメカニクスを組み合わせる終盤の部屋。"
+            },
+            {
+              "label": "宝物庫",
+              "detail": "デイリーチャレンジを完全に連続クリアすると開く報酬部屋。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Sort of Magic 実績ガイド",
+          "description": "すべてのステージとデイリー連続をクリアしたプレイヤーに報いるマイルストーンとチャレンジのコンプリートガイド。",
+          "href": "/tips/sort-of-magic-secrets",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "初勝利",
+              "detail": "元に戻すを使わずに最初のレベルをクリアする。"
+            },
+            {
+              "label": "7 日連続",
+              "detail": "デイリーチャレンジを 7 日連続でクリアする。"
+            },
+            {
+              "label": "パーフェクト",
+              "detail": "無駄な注ぎを一度もせずにステージを完了する。"
+            },
+            {
+              "label": "ブースターなし",
+              "detail": "ブースターを一切使わずに高難度レベルをクリアする。"
+            },
+            {
+              "label": "コレクター",
+              "detail": "学校のすべてのアイテムカテゴリを少なくとも一度仕分ける。"
+            },
+            {
+              "label": "スピードラン",
+              "detail": "目標手数以内に部屋全体をクリアする。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Sort of Magic ニュースと更新",
+          "description": "Sort of Magic のリリースニュース、新レベル、パッチ、プラットフォーム更新の継続的なまとめ。",
+          "href": "/updates/sort-of-magic-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "新レベル",
+              "detail": "最近の更新では、最新のメカニクスを基にした新しいステージが追加されます。"
+            },
+            {
+              "label": "パッチ",
+              "detail": "バグ修正リリースにより、注ぐ、元に戻す、デイリーリセットが円滑に動作します。"
+            },
+            {
+              "label": "イベント",
+              "detail": "季節イベントでは期間限定の盤面とコスメ報酬が追加されます。"
+            },
+            {
+              "label": "モバイル",
+              "detail": "Android 版と iOS 版は PC の更新スケジュールに追随します。"
+            },
+            {
+              "label": "リリース",
+              "detail": "公式発表が届き次第まとめる、ローンチとプラットフォームのニュース。"
+            },
+            {
+              "label": "レビュー",
+              "detail": "新コンテンツと難易度変更に対するプレイヤーの感想。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Sort of Magic に関する最も一般的な質問への簡単な回答。",
+      "items": [
+        {
+          "question": "Sort of Magic とは？",
+          "answer": "Sort of Magic は、心地よい魔法をテーマにした整理パズルゲームです。各レベルでは色のついたセグメントで満たされたチューブのセットが与えられ、一番上の色を同じ色のスタックか空のチューブに注ぎ、すべてのチューブが単色になるまで続けます。"
+        },
+        {
+          "question": "Sort of Magic の遊び方は？",
+          "answer": "まず盤面全体を読み、作業スペースとしてチューブを 1 本空けておき、同じ色の一番上か空のチューブにだけ色を注ぎます。Sort of Magic はスピードよりも計画性に報います。"
+        },
+        {
+          "question": "Sort of Magic にデイリーチャレンジはありますか？",
+          "answer": "はい。Sort of Magic のデイリーチャレンジは決まったスケジュールで更新され、進行度に応じてスケールし、毎日クリアし続けると連続ボーナスを獲得できます。"
+        },
+        {
+          "question": "Sort of Magic のレベル数は？",
+          "answer": "Sort of Magic はレベル 100 のマイルストーンに向かって上がるレベル層で構成され、各層で整理ルールに新しいひねりが加わります。"
+        },
+        {
+          "question": "Sort of Magic は協力プレイできますか？",
+          "answer": "Sort of Magic はソロプレイと最大 4 人のオンライン協力プレイに対応しているので、フレンドと盤面を分担することも、一人でクリアすることもできます。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Sort of Magic をマスターする準備はできましたか？",
+      "description": "最初の散らかった部屋から完全に復元された魔法学校まで、コミュニティウィキが無料で最新のガイドを提供します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam でプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Sort of Magic ガイド",
+    "overviewDescription": "Sort of Magic の初心者ガイド、攻略、ステップバイステップのチュートリアル。"
+  },
+  "levels": {
+    "overviewTitle": "Sort of Magic レベル",
+    "overviewDescription": "Sort of Magic のすべてのステージのレベル一覧、レベル攻略、高難度レベルのコツ。"
+  },
+  "mechanics": {
+    "overviewTitle": "Sort of Magic メカニクス",
+    "overviewDescription": "Sort of Magic の仕組み：パズルのメカニクス、ゲームプレイループ、デイリーチャレンジ。"
+  },
+  "tips": {
+    "overviewTitle": "Sort of Magic のコツ",
+    "overviewDescription": "Sort of Magic のパズルをより速く解くための戦略、ヒント、秘密。"
+  },
+  "controls": {
+    "overviewTitle": "Sort of Magic の操作",
+    "overviewDescription": "モバイルとデスクトップで Sort of Magic をプレイするための操作、手、設定。"
+  },
+  "updates": {
+    "overviewTitle": "Sort of Magic 更新",
+    "overviewDescription": "最新の Sort of Magic アップデート、新レベル、リリース日ニュース、コミュニティハイライト。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新日",
+    "viewAllCodes": "すべてのコードを見る",
+    "playOnRoblox": "Roblox でプレイ",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "助けが必要ですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。もうすぐ公開予定です！"
+  },
+  "footer": {
+    "aboutTitle": "Sort of Magic Wiki",
+    "about": "Sort of Magic Wiki は、整理戦略、呪文、部屋の攻略、協力プレイのコツ、そして新規・ベテランを問わずプレイヤーに必要なゲーム知識を網羅する、独立したファン制作のガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的情報",
+    "copyright": "2026 Sort of Magic Wiki. Riwon または Valve とは提携していません。",
+    "description": "Steam の心地よい魔法組織アドベンチャー。何千ものオブジェクトを仕分け、呪文を解放し、ソロまたは協力プレイで楽しめます。",
+    "playGame": "Steam でプレイ",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "vvBuilder": "協力プレイガイド",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "レースガイド",
+    "bossGuides": "ボスガイド",
+    "buildGuide": "ビルドガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
